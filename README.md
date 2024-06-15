@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Byvalvin
 
+I enjoy coding as much as the next guy on here but debugging poor code will always make me cry. Just do it right(at at least try to) the first time and/or refactor.
+
 # Languages
 ## Fluent
 - Python
