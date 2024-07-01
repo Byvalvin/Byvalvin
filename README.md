@@ -39,6 +39,7 @@ Just do it right(at at least try to) the first time and/or 👉**REFACTOR**👈.
 - Flask
 - FastAPI
 - Tailwind CSS
+- React
 - Vue
 - Angular
 
