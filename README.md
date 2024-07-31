@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Byvalvin
 
 # Some things I'm proud to show
-[Check them out](https://byvalvin.github.io/index.html)
+[Check them out!](https://byvalvin.github.io)
 
 I enjoy coding as much as the next guy on here but debugging poor code will always make me cry. 
 Just do it right(at at least try to) the first time and/or 👉**REFACTOR**👈.
