@@ -1,63 +1,35 @@
-- 👋 Hi, I’m @Byvalvin
+# 👋 Hey, I'm @Byvalvin  
 
-# Some things I'm proud to show
-[Check them out!](https://byvalvin.github.io)
+### **Software Developer | Computerish Person | Learner**  
 
-# Languages
-## Fluent
-- Python
-- C/C++
-- Java
-- Julia
-- MATLAB
-- Dart
-- HTML/CSS
+[🚀 Check out my projects](https://byvalvin.github.io)  
 
-## Good
-- Bash, Powershell
-- JavaScript
-- Typescript
-- C#
-- Swift
-- Kotlin
+---
 
-## Learning
-- Golang
-- Rust
-- R
+## 🛠️ Tech Stack  
 
-# Frameworks
-## General
-- Processing
+### **Languages**  
+💡 **Fluent:** Python, C/C++, Java, Julia, MATLAB, Dart, HTML/CSS  
+📌 **Proficient:** JavaScript, TypeScript, C#, Swift, Kotlin, Bash, PowerShell  
+🌱 **Exploring:** Golang, Rust, R  
 
-## Testing
-- JUnit
-- Expresso
-  
-## Web
-- Django
-- Flask
-- FastAPI
-- Tailwind CSS
-- React
-- Vue
-- Angular
+### **Frameworks & Tools**  
+- **Web:** Django, Flask, FastAPI, React, Vue, Angular, Tailwind CSS  
+- **App Dev:** Flutter, Xcode  
+- **Testing:** JUnit, Espresso  
+- **AI/ML:** PyTorch  
 
-## App
-- Flutter
-- Xcode
+---
 
-## AI/ML
-- Pytorch
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Byvalvin&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Byvalvin&theme=github-dark&hide_border=true" height="150" alt="GitHub Streak">
+</p>
 
+---
 
-<!---
-- 👀 I’m interested in some things
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 📫 Where to Find Me  
+- Portfolio: [byvalvin.github.io](https://byvalvin.github.io)  
 
-Byvalvin/Byvalvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
