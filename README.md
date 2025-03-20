@@ -2,21 +2,21 @@
 
 ### **Software Developer | Computerish Person | Learner**  
 
-[🚀 Check out my projects](https://byvalvin.github.io)  
+[🚀 Check out my projects](https://byvalvin.github.io/otherProjects)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
-💡 **Fluent:** Python, C/C++, Java, Julia, MATLAB, Dart, HTML/CSS  
-📌 **Proficient:** JavaScript, TypeScript, C#, Swift, Kotlin, Bash, PowerShell  
-🌱 **Exploring:** Golang, Rust, R  
+💡 **Fluent:** Python, C/C++, Java, Dart, JavaScript,
+📌 **Proficient:** TypeScript, C#, Swift, Bash/PowerShell, HTML/CSS, Julia, MATLAB,
+🌱 **Exploring:** Golang, Rust, R ,
 
 ### **Frameworks & Tools**  
 - **Web:** Django, Flask, FastAPI, React, Vue, Angular, Tailwind CSS  
 - **App Dev:** Flutter, Xcode  
-- **Testing:** JUnit, Espresso  
+- **Testing:** JUnit, Espresso, Jest
 - **AI/ML:** PyTorch  
 
 ---
