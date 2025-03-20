@@ -2,7 +2,7 @@
 
 ### **Software Developer | Computerish Person | Learner**  
 
-[🚀 Check out my projects](https://byvalvin.github.io/otherProjects)  
+[🚀 Check out my projects](https://byvalvin.github.io/#otherProjects)  
 
 ---
 
