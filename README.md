@@ -9,9 +9,11 @@
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
-💡 **Fluent:** Python, C/C++, Java, Dart, JavaScript,
-📌 **Proficient:** TypeScript, C#, Swift, Bash/PowerShell, HTML/CSS, Julia, MATLAB,
-🌱 **Exploring:** Golang, Rust, R ,
+💡 **Fluent:** Python, C/C++, Java, Dart, JavaScript ...
+
+📌 **Proficient:** TypeScript, C#, Swift, Bash/PowerShell, HTML/CSS, Julia, MATLAB ...
+
+🌱 **Exploring:** Golang, Rust, R ...
 
 ### **Frameworks & Tools**  
 - **Web:** Django, Flask, FastAPI, React, Vue, Angular, Tailwind CSS  
